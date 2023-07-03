@@ -1,3 +1,6 @@
 /StartingProject/EmployeesApp/EmployeesApp/obj
 /StartingProject/EmployeesApp/EmployeesApp/bin
 /StartingProject/EmployeesApp/.vs
+
+.idea/
+.vscode/
